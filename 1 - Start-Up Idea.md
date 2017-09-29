@@ -11,7 +11,7 @@ I plan on updating the blog every single week with new content that I have disco
 
 #### Week 2 (September 29th 2017)
 * Goal: My goal today is to completely set up my blog page. I plan on having a page with bright colours and getting all the titles of my blog post availible. I will even start working on my Introduction page to kick start the website and then plan what my first blog post will be and what my first few questions will be.
-
+* Accomplished: I created my blog and all the sub projects of my happy page. 
 
 #### Week 3 (Date Range Here)
 * To follow
