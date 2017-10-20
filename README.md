@@ -19,7 +19,9 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **Accomplished:** I have the website published to start it off! There is a little more designing to do on it and a few more updates but it has started:) 
 
 #### Week 4 (Date Range Here)
-* To follow
+* **Goal:** Continue on with website!! I'm hoping to have started the album by now
+* **Accomplished:** I have written in 2 of my project logs but have unfortunately not started my board yet. 
+* **Solution:** To fix my slight off track set, I plan on taking to Mister Tarrent (my mentor) and using his chalkboard. I have booked a meeting with him for Friday at lunch to discuss things as we move forward. I have asked 5 different people to contribute to my album so now I just need to find a time to get their small "interview"
 
 #### Week 5 (Date Range Here)
 * To follow
