@@ -52,13 +52,13 @@
         </style>
     </head>
     <body>
-    <img id="party-blob"src="https://www.kasandbox.org/programming-images/avatars/mr-pink.png">
+    <img id="party-blob"src="https://stickershop.line-scdn.net/stickershop/v1/product/1000397/LINEStorePC/main@2x.png;compress=true?__=20161019">
     <img id="number" src="https://www.kasandbox.org/programming-images/space/9.png">
     <div class="party-box">    
         <h1>QUICK LEARNIN STOP!</h1>
         <h2>Quick <span id="tips"> tips!</span></h2>
         
-        <h3>Mr. Blob wants to remind you:</h3>
+        <h3>Mr. Otter wants to remind you:</h3>
         <ul>
             <li><span class="detail">Tip 1:</span> Make short term and long term goals!!</li>
             <li><span class="detail">Tip 2:</span> Take notice on area's where you need to improve</li>
