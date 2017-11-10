@@ -37,7 +37,7 @@
                 color:rgb(217, 39, 39);
                 margin:-5%;
             }
-            #birthday {
+            #tips {
                 color:rgb(176, 7, 7);
             }
             .detail {
@@ -55,14 +55,14 @@
     <img id="party-blob"src="https://www.kasandbox.org/programming-images/avatars/mr-pink.png">
     <img id="number" src="https://www.kasandbox.org/programming-images/space/9.png">
     <div class="party-box">    
-        <h1>It's a PARTY!!</h1>
-        <h2>Quick <span id="birthday"> tips!</span></h2>
+        <h1>QUICK LEARNIN STOP!</h1>
+        <h2>Quick <span id="tips"> tips!</span></h2>
         
-        <h3>The details:</h3>
+        <h3>Mr. Blob wants to remind you:</h3>
         <ul>
             <li><span class="detail">Tip 1:</span> Make short term and long term goals!!</li>
-            <li><span class="detail">Tip2:</span> Take notice on area's where you need to improve</li>
-            <li><span class="detail">Tip3:</span> Understand that change doesn't happen overnight!</li>
+            <li><span class="detail">Tip 2:</span> Take notice on area's where you need to improve</li>
+            <li><span class="detail">Tip 3:</span> Understand that change doesn't happen overnight!</li>
         </ul>
         
         <p id="ending">Happy to help:)</p>
