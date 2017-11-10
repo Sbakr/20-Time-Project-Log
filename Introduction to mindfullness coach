@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Meet the team</title>
+        <style>
+            #greeting {
+                background: rgb(230, 25, 227);
+                border: 2px solid black;
+                font-family: "Comic Sans MS", fantasy;
+                padding: 4px;
+                width: 262px;
+top: 150px;
+                position:absolute;
+                top: 100px;
+                left: 28px;
+                z-index:2;
+            }
+            
+            #creature {
+height: 100px;
+                position:absolute;
+                top: 30px;
+                left: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <img id="love" src="http://www.uvassociates.in/sites/default/files/images/clip-arts/Heart%20Clip%20Transparent%20Background%20Red.png" width="300">
+        
+        <div id="greeting">
+            <p>Hello! Meet Mr.Otter! He is our mindfullness coach :)</p>
+        </div>
+        
+        <img id="creature" src="https://stickershop.line-scdn.net/stickershop/v1/product/1000397/LINEStorePC/main@2x.png;compress=true?__=20161019">
+        
+
+    </body>
+</html>
