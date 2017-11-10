@@ -14,7 +14,7 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **Accomplished:** I created my blog and all the sub projects of my happy page. 
 
 #### Week 3 (October 8 2017)
-* [My Website](https://sbake15.wixsite.com/mysite)
+* [My Website](https://sbake15.wixsite.com/happypage)
 * **Goal:** Set up the basic information to start the main blog streams so it can be published although it is not completely finished. I hope to get some pictures to start my album and find a chalkboard for my chalkboard project aswell. 
 * **Accomplished:** I have the website published to start it off! There is a little more designing to do on it and a few more updates but it has started:) 
 
