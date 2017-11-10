@@ -23,8 +23,9 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **Accomplished:** I have written in 2 of my project logs but have unfortunately not started my board yet. 
 * **Solution:** To fix my slight off track set, I plan on taking to Mister Tarrent (my mentor) and using his chalkboard. I have booked a meeting with him for Friday at lunch to discuss things as we move forward. I have asked 5 different people to contribute to my album so now I just need to find a time to get their small "interview"
 
-#### Week 5 (Date Range Here)
-* To follow
+#### Week 5 (November 10th 2017)
+* **Goal:** Today I realized that we needed to have an HTML aspect into our project so I am going to be working on integrating HTML code into my website base
+* **Accomplished:** Today I figured out how to add code into wix account. The issue with wix is that it is a pre programmed file
 
 #### Week 6 (Date Range Here)
 * To follow
