@@ -25,7 +25,10 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 
 #### Week 5 (November 10th 2017)
 * **Goal:** Today I realized that we needed to have an HTML aspect into our project so I am going to be working on integrating HTML code into my website base
-* **Accomplished:** Today I figured out how to add code into wix account. The issue with wix is that it is a pre programmed file
+* **Accomplished:** Today I figured out how to add code into wix account. The issue with wix is that it is a pre programmed file so adding your own code took a little bit of playing around and I am still working on the boundries for what I am capable of doing. This week I decided that my programming aspect is going to be a mascot. Below I have provided an image for one of the coding parts I have done so far. You can find mr.otter on the first page of the website and every other page you click into. Right now mr. Otter is not interactive but I'm hoping to make some of his small snipits a "click here!" sort of deal
+* **Solution:** The solutions I was working on today were the adding coding. I now have 2 Mr. Otter codes that can be found in different files on this repository and plan on doing many more.  
+
+<img width="309" alt="screen shot 2017-11-12 at 4 56 48 pm" src="https://user-images.githubusercontent.com/31697395/32703889-8b3ae858-c7ca-11e7-8896-d864622582b6.png">  
 
 #### Week 6 (Date Range Here)
 * To follow
