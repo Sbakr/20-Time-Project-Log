@@ -26,12 +26,12 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 #### Week 5 (October 27th 2017)
 * **Goal:** Update site and start projects in github.
 * **Accomplished:** I made an issue, 2 projects, have commented in the projects and practiced making branches in myy summer poem repository.
-* **Solution:** Today I worked on figuring out my way around Github. I wanted to create at least one issue and one project to start working on. In the future I hope too work on more than one branch and I'm trying to figure out how to download git mash so that I can work off of atom or brackets and then push it back into github.
+* **Solution:** Today I worked on figuring out my way around Github. I wanted to create at least one issue and one project to start working on. In the future I hope too work on more than one branch and I'm trying to figure out how to download git  so that I can work off of atom or brackets and then push it back into github.
 
 #### Week 6 (November 3rd 2017)
-* **Goal:** Update site and start projects in github.
-* **Accomplished:** I made an issue, 2 projects, have commented in the projects and practiced making branches in myy summer poem repository.
-* **Solution:** Today I worked on figuring out my way around Github. I wanted to create at least one issue and one project to start working on. In the future I hope too work on more than one branch and I'm trying to figure out how to download git mash so that I can work off of atom or brackets and then push it back into github.
+* **Goal:** Read up on git and work on site
+* **Accomplished:** I am starting to understand git and have tried to download it to my computer. I added the about page and made changes to my website.
+* **Solution:** I am having a little bit of difficulty getting the git program to run on my computer so I will need help from a teacher. Me and Mr. O are working on how to work around that computer issue. Jai is helping me understand the concept of a github workflow and we are working on setting up my new computer (since the other one I was working on crashed) with all the needed programs. 
 
 #### Week 7 (November 10th 2017)
 * **Goal:** Today I realized that we needed to have an HTML aspect into our project so I am going to be working on integrating HTML code into my website base
