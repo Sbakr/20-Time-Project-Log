@@ -23,18 +23,23 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **Accomplished:** I have written in 2 of my project logs but have unfortunately not started my board yet. 
 * **Solution:** To fix my slight off track set, I plan on taking to Mister Tarrent (my mentor) and using his chalkboard. I have booked a meeting with him for Friday at lunch to discuss things as we move forward. I have asked 5 different people to contribute to my album so now I just need to find a time to get their small "interview"
 
-#### Week 5 (November 10th 2017)
+#### Week 5 (October 27th 2017)
+* **Goal:** Update site and start projects in github.
+* **Accomplished:** I made an issue, 2 projects, have commented in the projects and practiced making branches in myy summer poem repository.
+* **Solution:** Today I worked on figuring out my way around Github. I wanted to create at least one issue and one project to start working on. In the future I hope too work on more than one branch and I'm trying to figure out how to download git mash so that I can work off of atom or brackets and then push it back into github.
+
+#### Week 6 (November 3rd 2017)
+* **Goal:** Update site and start projects in github.
+* **Accomplished:** I made an issue, 2 projects, have commented in the projects and practiced making branches in myy summer poem repository.
+* **Solution:** Today I worked on figuring out my way around Github. I wanted to create at least one issue and one project to start working on. In the future I hope too work on more than one branch and I'm trying to figure out how to download git mash so that I can work off of atom or brackets and then push it back into github.
+
+#### Week 7 (November 10th 2017)
 * **Goal:** Today I realized that we needed to have an HTML aspect into our project so I am going to be working on integrating HTML code into my website base
 * **Accomplished:** Today I figured out how to add code into wix account. The issue with wix is that it is a pre programmed file so adding your own code took a little bit of playing around and I am still working on the boundries for what I am capable of doing. This week I decided that my programming aspect is going to be a mascot. Below I have provided an image for one of the coding parts I have done so far. You can find mr.otter on the first page of the website and every other page you click into. Right now mr. Otter is not interactive but I'm hoping to make some of his small snipits a "click here!" sort of deal
 * **Solution:** The solutions I was working on today were the adding coding. I now have 2 Mr. Otter codes that can be found in different files on this repository and plan on doing many more.  
 
 <img width="309" alt="screen shot 2017-11-12 at 4 56 48 pm" src="https://user-images.githubusercontent.com/31697395/32703889-8b3ae858-c7ca-11e7-8896-d864622582b6.png">  
 
-#### Week 6 (Date Range Here)
-* To follow
-
-#### Week 7 (Date Range Here)
-* To follow
 
 #### Week 8 (Date Range Here)
 * To follow
