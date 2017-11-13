@@ -42,7 +42,7 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 
 
 #### Week 8 (Date Range Here)
-* To follow
+* **Goal** Figure out Git Bash
 
 #### Week 9 (Date Range Here)
 * To follow
