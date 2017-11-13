@@ -43,8 +43,8 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 
 #### Week 8 (Date Range Here)
 * **Goal:** Figure out Git Bash. Start chalfboard.
-
 * **Accomplished:** I DID IT!!!! With the help of Jai I learned how to use gitbash to git clone the 20 times project and then take the "ls" list of all the files on my computer and then "cd" change the directory to my 20 time project. From there we took the list, opened read me through files onto brackets and then am now working on updating my log. After the updates I checked the git status and say the readme was edited. I "git add --add" the changes and "git commit -m" my message that i wish to change with the updates. from there i pushed the doctument back to github.
+* **Solution:** I noticed that some of my files did not have a .js or .html so I needed to go back to github and change the file and then pull from git bash using the command "git pull". I checked that my  "ls" had updated as well and now I am updating my progress.
 
 #### Week 9 (Date Range Here)
 * To follow
