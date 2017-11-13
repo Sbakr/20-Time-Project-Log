@@ -41,10 +41,11 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 <img width="309" alt="screen shot 2017-11-12 at 4 56 48 pm" src="https://user-images.githubusercontent.com/31697395/32703889-8b3ae858-c7ca-11e7-8896-d864622582b6.png">  
 
 
-#### Week 8 (Date Range Here)
+#### Week 8 (November 17th 2017)
 * **Goal:** Figure out Git Bash. Start chalfboard.
 * **Accomplished:** I DID IT!!!! With the help of Jai I learned how to use gitbash to git clone the 20 times project and then take the "ls" list of all the files on my computer and then "cd" change the directory to my 20 time project. From there we took the list, opened read me through files onto brackets and then am now working on updating my log. After the updates I checked the git status and say the readme was edited. I "git add --add" the changes and "git commit -m" my message that i wish to change with the updates. from there i pushed the doctument back to github.
 * **Solution:** I noticed that some of my files did not have a .js or .html so I needed to go back to github and change the file and then pull from git bash using the command "git pull". I checked that my  "ls" had updated as well and now I am updating my progress.
+<img width="625" alt="screen shot 2017-11-13 at 4 48 27 pm" src="https://user-images.githubusercontent.com/31697395/32751079-8af3d0f8-c892-11e7-84d6-e227e8110bc5.png">
 
 #### Week 9 (Date Range Here)
 * To follow
