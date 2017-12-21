@@ -54,6 +54,11 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 #### Week 10 (December 1st 2017)
 * **Goal:** FIRST THINGS FIRST: MERRY CHRISTMAS!!!! My goal this week is pretty simple. Make another html for mr otter and keep adding to the blog (everything from last week's for the future heading)
 
+* **Accomplished:** His coding is in the project log and it is getting easier to work on things though brackets and watch them update on my open chrome tab
+<img width="430" alt="screen shot 2017-12-21 at 1 48 45 pm" src="https://user-images.githubusercontent.com/31697395/34270315-c045d64e-e655-11e7-9f80-5cd36172a356.png">
+
+* **For the Future:** Not project related but for the future I wish to be able to do everything that I do at school on my laptop. I've got a mac book and need to figure out the slight differences of getting the programs on that laptop.
+
 #### Week 11 (December 8th 2017)
 * To follow
 
