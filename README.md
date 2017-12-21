@@ -62,5 +62,5 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 #### Week 11 (December 8th 2017)
 * To follow
 
-#### Week 12 (Date Range Here)
+#### Week 12 (December 15th 2017)
 * To follow
