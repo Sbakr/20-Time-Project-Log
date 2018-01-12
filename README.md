@@ -60,7 +60,8 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **For the Future:** Not project related but for the future I wish to be able to do everything that I do at school on my laptop. I've got a mac book and need to figure out the slight differences of getting the programs on that laptop.
 
 #### Week 11 (December 8th 2017)
-* To follow
+* I updated my plan one last time for what I was trying to accomplish and continued to write in my own log. This project has turned more into a self growth rather than something for a population. Whether it affects others does not matter to me because it changed me. I tried writing down my favourite part of the day this week and have decided I am going to continue to do that and have gotten myself a journal to keep track of my year.
+* **For the Future:** I want to add more pictures to my site hopefully
 
 #### Week 12 (December 15th 2017)
 * To follow
