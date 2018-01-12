@@ -64,4 +64,4 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * **For the Future:** I want to add more pictures to my site hopefully
 
 #### Week 12 (December 15th 2017)
-* To follow
+* I'm having loads of fun trying out all these life activities! This week I got my mom involved in taking 10 minutes out of our day to do yoga. Honestly I don't know how much the yoga helped but I absolutely loved trying things with my mom. This project has been so good for my mental health and I'm definitly going to continue going this after my 20 time project is over. I absolutely love trying new things!
